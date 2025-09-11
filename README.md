@@ -7,7 +7,7 @@ The project also includes **views, stored procedures, functions, and triggers** 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft SQL Server (MSSMS)
 - T-SQL
 
